@@ -27,7 +27,7 @@ Here are the key visualizations generated from the analysis.
 
 #### **KDE Plot of Total Literates by State**
 *Understanding the distribution and density of literacy within each state.*
-![KDE Plot of Literacy Distribution](KDEPlot.png)`
+![KDE Plot of Literacy Distribution](KDEPlot.png)
 
 #### **Gender Ratios in Top 10 Most Populous States**
 *A heatmap that quickly reveals the gender balance in major urban states.*
